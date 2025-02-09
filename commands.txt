@@ -1,0 +1,11 @@
+
+This is linux first class
+
+cd
+ls
+hostname
+cat
+
+nano
+
+
